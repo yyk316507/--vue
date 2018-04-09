@@ -1,0 +1,56 @@
+[
+	{
+		"name":"一等奖",
+		"id":0,
+		"product":[
+			{
+				"proname":"beats stuido wireless",
+				"src":"../../static/assets/Headset.png"
+			},
+			{
+				"proname":"潘多拉手串",
+				"src":"../../static/assets/Bracelet.png"
+			},
+			{
+				"proname":"家用净水器",
+				"src":"../../static/assets/Water_purifier.png"
+			}
+		]
+	},
+	{
+		"name":"二等奖",
+		"id":1,
+		"product":[
+			{
+				"proname":"飞利浦 HD9641",
+				"src":"../../static/assets/zhaguo.png"
+			},
+			{
+				"proname":"索尼（SONY）HT-CT390",
+				"src":"../../static/assets/sound.png"
+			},
+			{
+				"proname":"博朗3d牙刷尊享版",
+				"src":"../../static/assets/toothbrush.png"
+			}
+		]
+	},
+	{
+		"name":"三等奖",
+		"id":2,
+		"product":[
+			{
+				"proname":"小米加湿器",
+				"src":"../../static/assets/Humidifier.png"
+			},
+			{
+				"proname":"RIEDEL 梅洛醒酒器+红酒杯4支组合套装",
+				"src":"../../static/assets/wine.png"
+			},
+			{
+				"proname":"中石化油卡",
+				"src":"../../static/assets/card.png"
+			}
+		]
+	}
+]
